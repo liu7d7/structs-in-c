@@ -1,0 +1,11 @@
+# ninja log v5
+1	83	6973259844837956	CMakeFiles/new_list_in_c.dir/main.c.obj	c7e9d9c6a560fb91
+83	180	6973259845762734	new_list_in_c.exe	98484c5cdbbb45e5
+2	104	6975348365017403	CMakeFiles/new_list_in_c.dir/main.c.obj	c7e9d9c6a560fb91
+104	259	6975348366514467	new_list_in_c.exe	98484c5cdbbb45e5
+1	67	6975372729910653	CMakeFiles/new_list_in_c.dir/main.c.obj	c7e9d9c6a560fb91
+68	140	6975372730591381	new_list_in_c.exe	98484c5cdbbb45e5
+1	60	6975377083969120	CMakeFiles/new_list_in_c.dir/main.c.obj	c7e9d9c6a560fb91
+61	124	6975377084573226	new_list_in_c.exe	98484c5cdbbb45e5
+1	57	6975377320244167	CMakeFiles/new_list_in_c.dir/main.c.obj	c7e9d9c6a560fb91
+58	120	6975377320837686	new_list_in_c.exe	98484c5cdbbb45e5
